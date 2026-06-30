@@ -34,22 +34,22 @@ export interface HomeContent {
 
 export const homeContent: HomeContent = {
   hero: {
-    eyebrow: "Welcome to a new era",
+    eyebrow: "A new chapter in design thinking",
     titleLines: [
-      "Technology that redefines",
-      "the nature of interaction",
+      "Design that reshapes how",
+      "digital experiences are felt",
     ],
     subtitle:
-      "We build systems at the intersection of data, energy, and intelligence — where something fundamentally new comes to life.",
+      "We design systems where structure, logic, and creativity converge into refined digital experiences.",
     buttons: [
-      { label: "Get started", withArrow: true },
-      { label: "See how it works", withArrow: false },
+      { label: "Begin", withArrow: true },
+      { label: "Explore the process", withArrow: false },
     ],
   },
   cards: [
     {
       id: "deployment",
-      title: "Faster deployment",
+      title: "Faster execution with precision",
       stat: "3×",
       description:
         "From concept to production in a fraction of the time — without sacrificing quality.",
@@ -70,23 +70,23 @@ export const homeContent: HomeContent = {
     },
   ],
   wave: {
-    eyebrow: "The pull of results",
+    eyebrow: "Design driven by outcomes",
     titleLines: ["Everything revolves around", "one thing — your growth"],
     subtitle:
-      "Thousands of data points. One centre of gravity. We turn the noise of information into a focused point of energy for your business.",
+      "We simplify complexity into focused, intentional design systems.",
     buttons: [
-      { label: "Start your free trial", withArrow: true },
-      { label: "Book a demo", withArrow: false },
+      { label: "Start a project", withArrow: true },
+      { label: "Book a consultation", withArrow: false },
     ],
   },
   galaxy: {
-    eyebrow: "Our product ecosystem",
-    titleLines: ["A universe of possibilities —", "already in motion"],
+    eyebrow: "Our design ecosystem",
+    titleLines: ["Measured across disciplines, grounded in real outcomes."],
     subtitle:
       "Our platform is not a single tool. It's a living ecosystem with your business at its core, surrounded by services, partners, and data orbiting around you.",
     buttons: [
-      { label: "Explore the ecosystem", withArrow: true },
-      { label: "View integrations", withArrow: false },
+      { label: "Explore work", withArrow: true },
+      { label: "View capabilities", withArrow: false },
     ],
   },
 };
