@@ -83,7 +83,7 @@ export const homeContent: HomeContent = {
     eyebrow: "Our design ecosystem",
     titleLines: ["Measured across disciplines, grounded in real outcomes."],
     subtitle:
-      "Our platform is not a single tool. It's a living ecosystem with your business at its core, surrounded by services, partners, and data orbiting around you.",
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
     buttons: [
       { label: "Explore work", withArrow: true },
       { label: "View capabilities", withArrow: false },
