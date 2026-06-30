@@ -49,22 +49,22 @@ export const homeContent: HomeContent = {
   cards: [
     {
       id: "deployment",
-      title: "Faster execution with precision",
-      stat: "3×",
+      title: "Technical",
+      stat: "Website Development",
       description:
         "From concept to production in a fraction of the time — without sacrificing quality.",
     },
     {
       id: "teams",
-      title: "Teams worldwide",
-      stat: "2,400+",
+      title: "Design",
+      stat: "Branding & UI/UX",
       description:
         "Trusted by teams across 40 countries to power their most critical workflows.",
     },
     {
       id: "efficiency",
-      title: "Average efficiency gain",
-      stat: "68%",
+      title: "Growth",
+      stat: "Search Engine Optimisation",
       description:
         "Measured across industries. Real numbers from real deployments.",
     },
