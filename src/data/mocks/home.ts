@@ -50,7 +50,7 @@ export const homeContent: HomeContent = {
     {
       id: "deployment",
       title: "Technical",
-      stat: "Website Development",
+      stat: "Websites",
       description:
         "From concept to production in a fraction of the time — without sacrificing quality.",
     },
@@ -64,7 +64,7 @@ export const homeContent: HomeContent = {
     {
       id: "efficiency",
       title: "Growth",
-      stat: "Search Engine Optimisation",
+      stat: "SEO",
       description:
         "Measured across industries. Real numbers from real deployments.",
     },
